@@ -1,6 +1,6 @@
 cask "hush" do
-  version "1.0.1"
-  sha256 "72a06ba8ced2f6f045f38c86aa3d88eb385e896b4fe60bf7e48124b235135324"
+  version "1.0.2"
+  sha256 "178088a998952c1ff988470cc602ead03ed20cf0540f69b6a0278fd77d96330b"
 
   url "https://github.com/adis-b/hush/releases/download/v#{version}/Hush-#{version}.dmg"
   name "Hush"
